@@ -1,3 +1,3 @@
 # hello-world
-progetto di esempio
+progetto di esempio\n
 file modificato nel branch
